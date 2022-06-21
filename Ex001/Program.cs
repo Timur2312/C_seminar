@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// WriteLine - выводит текст и в конце делает перенос строки Console.WriteLine("Hello123, World!");
 Console.WriteLine("Hello123, World!");
